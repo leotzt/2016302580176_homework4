@@ -1,4 +1,4 @@
-2016302580176 ÌÆÕñöª
+2016302580176 å”æŒ¯éœ†
 P1.
   a. Destination Address:h3      link interface: 3
   b. It can't. it is only based on the destination address h3
@@ -9,7 +9,7 @@ P2.
   c. no, they will be on the same bus but not at the same time.
 
 P3.
-  (n-1)D , (n-1)D £¬ 0
+  (n-1)D , (n-1)D Â£Â¬ 0
 
 P5.
   a. 11100000 00                0
