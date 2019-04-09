@@ -1,0 +1,26 @@
+2016302580176 ÌÆÕñöª
+P1.
+  a. Destination Address:h3      link interface: 3
+  b. It can't. it is only based on the destination address h3
+
+P2.
+  a. only one packet can be transmitted at the same time.
+  b. no, only one memory can be written or read at the same time.
+  c. no, they will be on the same bus but not at the same time.
+
+P3.
+  (n-1)D , (n-1)D £¬ 0
+
+P5.
+  a. 11100000 00                0
+     11100000 01000000          1
+     1110000                    2
+     11100001 1                 3
+     otherwise                  3
+  b. 3  , 0  , 2
+
+P6. 
+  interface 0: 00000000-00111111   64
+  interface 1: 01000000-01111111   64
+  interface 2: 10000000-10011111   32
+  interface 3: 10100000-11111111   96
